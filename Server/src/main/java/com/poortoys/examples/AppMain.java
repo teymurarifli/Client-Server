@@ -12,7 +12,7 @@ public class AppMain {
         while (true){
             System.out.println("gozleyir");
             Socket connection=socket.accept();
-            System.out.println("gonderildi");
+            System.out.println("ugurla gonderildi");
         }
     }
 
